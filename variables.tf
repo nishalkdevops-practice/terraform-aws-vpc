@@ -72,3 +72,17 @@ variable "database_subnet_names" {
   
 }
 
+variable "private_route_table_tags" {
+
+  
+}
+
+variable "database_route_table_tags" {
+
+  
+}
+
+variable "public_route_table_tags" {
+    
+  
+}
